@@ -1,0 +1,2297 @@
+[
+  {
+    "seg_no": 1,
+    "seg_desc": "वाराणसी जौनुपर मार्ग पर चमाँव से हरहुआ पुलिस चैकी तक",
+    "village": "कोईराजपुर",
+    "rate_nonagri": 42000,
+    "rate_shop_land": 50000,
+    "rate_other_floor": 55000,
+    "village_en": "Koirajpur"
+  },
+  {
+    "seg_no": 1,
+    "seg_desc": "वाराणसी जौनुपर मार्ग पर चमाँव से हरहुआ पुलिस चैकी तक",
+    "village": "वाजिदपुर",
+    "rate_nonagri": 42000,
+    "rate_shop_land": 50000,
+    "rate_other_floor": 55000,
+    "village_en": "Wazidpur"
+  },
+  {
+    "seg_no": 1,
+    "seg_desc": "वाराणसी जौनुपर मार्ग पर चमाँव से हरहुआ पुलिस चैकी तक",
+    "village": "मंशापुर",
+    "rate_nonagri": 42000,
+    "rate_shop_land": 50000,
+    "rate_other_floor": 55000,
+    "village_en": "Manshapur"
+  },
+  {
+    "seg_no": 1,
+    "seg_desc": "वाराणसी जौनुपर मार्ग पर चमाँव से हरहुआ पुलिस चैकी तक",
+    "village": "भेलखां",
+    "rate_nonagri": 42000,
+    "rate_shop_land": 50000,
+    "rate_other_floor": 55000,
+    "village_en": "Bhelakhan"
+  },
+  {
+    "seg_no": 1,
+    "seg_desc": "वाराणसी जौनुपर मार्ग पर चमाँव से हरहुआ पुलिस चैकी तक",
+    "village": "हरहुआं",
+    "rate_nonagri": 42000,
+    "rate_shop_land": 50000,
+    "rate_other_floor": 55000,
+    "village_en": "Harahuan"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "काजी सरांय",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Kaji sarany"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "दासेपुर",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Dasepur"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "भगतूपुर",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Bhagtupur"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "हरहुआं",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Harahuan"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "मंशापुर",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Manshapur"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "धनेसरी",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Dhanesari"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "सेहमलपुर",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Sehmalpur"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "लुच्चेपुर",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Luchchepur"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "गड़वा",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Garhwa"
+  },
+  {
+    "seg_no": 2,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर हरहुआ पुलिस चैकी के आगे रिलायन्स पेट्रोल पम्प तक",
+    "village": "सरायस्वामी",
+    "rate_nonagri": 35000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 46000,
+    "village_en": "Sarayswami"
+  },
+  {
+    "seg_no": 3,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर रिलायन्स पेट्रोलपम्प के आगे से एयरपोर्ट कालोनी के बाउण्डरीवाल के प्रारम्भ तक",
+    "village": "सेहमलपुर",
+    "rate_nonagri": 28000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 37000,
+    "village_en": "Sehmalpur"
+  },
+  {
+    "seg_no": 3,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर रिलायन्स पेट्रोलपम्प के आगे से एयरपोर्ट कालोनी के बाउण्डरीवाल के प्रारम्भ तक",
+    "village": "जमालपुर",
+    "rate_nonagri": 28000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 37000,
+    "village_en": "Jamalpur"
+  },
+  {
+    "seg_no": 3,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर रिलायन्स पेट्रोलपम्प के आगे से एयरपोर्ट कालोनी के बाउण्डरीवाल के प्रारम्भ तक",
+    "village": "बाबतपुर",
+    "rate_nonagri": 28000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 37000,
+    "village_en": "Babatpur"
+  },
+  {
+    "seg_no": 3,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर रिलायन्स पेट्रोलपम्प के आगे से एयरपोर्ट कालोनी के बाउण्डरीवाल के प्रारम्भ तक",
+    "village": "सिसवां",
+    "rate_nonagri": 28000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 37000,
+    "village_en": "Siswa"
+  },
+  {
+    "seg_no": 3,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर रिलायन्स पेट्रोलपम्प के आगे से एयरपोर्ट कालोनी के बाउण्डरीवाल के प्रारम्भ तक",
+    "village": "सगुनहा",
+    "rate_nonagri": 28000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 37000,
+    "village_en": "Sagunah"
+  },
+  {
+    "seg_no": 3,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर रिलायन्स पेट्रोलपम्प के आगे से एयरपोर्ट कालोनी के बाउण्डरीवाल के प्रारम्भ तक",
+    "village": "बमोखर",
+    "rate_nonagri": 28000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 37000,
+    "village_en": "Bamokhar"
+  },
+  {
+    "seg_no": 4,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर एयरपोर्ट कालोंनी के बाउण्डरी वाल से एयरपोर्ट के अन्तिम छोर तक",
+    "village": "पुरारघुनाथपुर",
+    "rate_nonagri": 21000,
+    "rate_shop_land": 25000,
+    "rate_other_floor": 27000,
+    "village_en": "Pura Raghunathpur"
+  },
+  {
+    "seg_no": 4,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर एयरपोर्ट कालोंनी के बाउण्डरी वाल से एयरपोर्ट के अन्तिम छोर तक",
+    "village": "सिसवां",
+    "rate_nonagri": 21000,
+    "rate_shop_land": 25000,
+    "rate_other_floor": 27000,
+    "village_en": "Siswa"
+  },
+  {
+    "seg_no": 4,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर एयरपोर्ट कालोंनी के बाउण्डरी वाल से एयरपोर्ट के अन्तिम छोर तक",
+    "village": "सगुनहा",
+    "rate_nonagri": 21000,
+    "rate_shop_land": 25000,
+    "rate_other_floor": 27000,
+    "village_en": "Sagunah"
+  },
+  {
+    "seg_no": 5,
+    "seg_desc": "5- वाराणसी जौनपुर मार्ग पर एयरपोर्ट के अन्तिम छोर से पिण्डरा में सुरेन्द्र पटेल की मूर्ति तक",
+    "village": "पुरारघुनाथपुर",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 23000,
+    "rate_other_floor": 26000,
+    "village_en": "Pura Raghunathpur"
+  },
+  {
+    "seg_no": 5,
+    "seg_desc": "5- वाराणसी जौनपुर मार्ग पर एयरपोर्ट के अन्तिम छोर से पिण्डरा में सुरेन्द्र पटेल की मूर्ति तक",
+    "village": "कैथौली",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 24000,
+    "rate_other_floor": 26000,
+    "village_en": "Kaithauli"
+  },
+  {
+    "seg_no": 5,
+    "seg_desc": "5- वाराणसी जौनपुर मार्ग पर एयरपोर्ट के अन्तिम छोर से पिण्डरा में सुरेन्द्र पटेल की मूर्ति तक",
+    "village": "चकइन्दर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 24000,
+    "rate_other_floor": 26000,
+    "village_en": "Chakender"
+  },
+  {
+    "seg_no": 5,
+    "seg_desc": "5- वाराणसी जौनपुर मार्ग पर एयरपोर्ट के अन्तिम छोर से पिण्डरा में सुरेन्द्र पटेल की मूर्ति तक",
+    "village": "पिण्डरा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 24000,
+    "rate_other_floor": 26000,
+    "village_en": "Pindar"
+  },
+  {
+    "seg_no": 6,
+    "seg_desc": "सुरेन्द्र पटेल की मूर्ति से पिण्डरा पावर हाउस तक",
+    "village": "पिण्डरा",
+    "rate_nonagri": 23000,
+    "rate_shop_land": 28000,
+    "rate_other_floor": 31000,
+    "village_en": "Pindar"
+  },
+  {
+    "seg_no": 7,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर पिण्डरा पावरहाउस से फूलपुर थाने तक",
+    "village": "पिण्डरा",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 23000,
+    "rate_other_floor": 26000,
+    "village_en": "Pindar"
+  },
+  {
+    "seg_no": 7,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर पिण्डरा पावरहाउस से फूलपुर थाने तक",
+    "village": "जमापुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 21000,
+    "rate_other_floor": 24000,
+    "village_en": "Jamapur"
+  },
+  {
+    "seg_no": 7,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर पिण्डरा पावरहाउस से फूलपुर थाने तक",
+    "village": "लोकापुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Lokapur"
+  },
+  {
+    "seg_no": 7,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर पिण्डरा पावरहाउस से फूलपुर थाने तक",
+    "village": "फूलपुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Phoolpur"
+  },
+  {
+    "seg_no": 8,
+    "seg_desc": "8- वाराणसी जोनपुर मार्ग पर फूलपुर थाने के आगे सूरही मार्ग तक",
+    "village": "फूलपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Phoolpur"
+  },
+  {
+    "seg_no": 9,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर मार्ग के आगे पिण्डरा तहसील की अन्तिम सीमा तक (जौनपुर की ओर)",
+    "village": "करखियांव",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Karkhiyaon"
+  },
+  {
+    "seg_no": 9,
+    "seg_desc": "वाराणसी जौनपुर मार्ग पर मार्ग के आगे पिण्डरा तहसील की अन्तिम सीमा तक (जौनपुर की ओर)",
+    "village": "थरी",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Thari"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "धनेशरी",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Dhaneshari"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "दुनियापुर",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Duniyapur"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "औसानपुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Ausanapur"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "करोमा",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Karoma"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "चक्का",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Chakka"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "भटौली",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Bhatauli"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "पाण्डेयपुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Pandeyapur"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "रसूलपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Rasulapur"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "बैजलपट्टी",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bazar Patti"
+  },
+  {
+    "seg_no": 10,
+    "seg_desc": "हरहुआ चैमुहानी से रामेश्वर मार्ग",
+    "village": "इन्दरखापुर",
+    "rate_nonagri": 15000,
+    "rate_shop_land": 42000,
+    "rate_other_floor": 43000,
+    "village_en": "Inderkhapur"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "धनेशरी",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Dhaneshari"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "दासेपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Dasepur"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "हरहुआं",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Harahuan"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "सिंघापुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Singhapur"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "रामसिंहपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Ramsinghpur"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "जैतपट्टी",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Jait Patti"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "वाजिदपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Wazidpur"
+  },
+  {
+    "seg_no": 11,
+    "seg_desc": "हरहुआ चैमुहानी से भेलखा- पंचकोशी मार्ग",
+    "village": "भेलखां",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Bhelakhan"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "गड़वा",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Garhwa"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "लुच्चेपुर",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Luchchepur"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "काजी सरांय",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Kaji sarany"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "बेसईपुर उर्फ बेसही",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Besaipura urpha besahi"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "नरायनपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Narayanpur"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "वार",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "War"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "मोहनपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Mohanpur"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "चन्दीपट्टी",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Chandipatti"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "बीरापट्टी",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Birapatti"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "सरईयां",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Saraiyan"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "इन्द्रवार",
+    "rate_nonagri": 15000,
+    "rate_shop_land": 32000,
+    "rate_other_floor": 43000,
+    "village_en": "Inderwar"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "भोमी",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhobhi"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "उन्दी",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Undi"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "सोनकडीह",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sonakadih"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "सुतबलपुर",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sutabalapur"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "जैपार",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Jaipar"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "बालीपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Balipur"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "रामपुर गड़वा",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Rampur"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "अमावर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Amawar"
+  },
+  {
+    "seg_no": 12,
+    "seg_desc": "गड़वा चैराहा से बीरापटटी रेलवे क्रासिंग तक बीरापट्टी रेलवे क्रासिंग से उन्दी होते हुए सुतबलपुर गेट तक",
+    "village": "हरीरामपुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Hariramapur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "बीरापट्टी",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Birapatti"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "नीमिन्दीपुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Nimindipur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "भगवानपुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhagwanpur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "घमहापुर",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ghamhapur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "सिकन्दरपुर",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sikandarpur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "आशापुर",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ashapur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "तुलसीपट्टी",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Tulasipatti"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "सभईपुर",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Sabhaipur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "माधोपुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Madhopur"
+  },
+  {
+    "seg_no": 13,
+    "seg_desc": "बीरापट्टी रेलवें क्रासिंग से सिकन्दरपुर होते हुए पंचकोशी मार्ग",
+    "village": "बहोरीपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bahoripur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "सगुनहां",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Sagunahan"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "घमहापुर (कर्मी)",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Ghamhapur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "कर्मी",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Karmi"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "धरमनपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Dharmanpur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "दुदिलपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Dudilapur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "बैकुण्ठपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Baikunthpur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "मंगारी",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 46000,
+    "village_en": "Mangari"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "नेवादा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Newada"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "नहियां",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Nahiyan"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "पुआरीकलां",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Puarikalan"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "भायठ",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Bhayath"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "सरायकालदास",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 46000,
+    "village_en": "Sarayakaladas"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "गहुरा",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 46000,
+    "village_en": "Gaura"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "भोपापुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Bhopapur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "गोसाईपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Gosaipur"
+  },
+  {
+    "seg_no": 14,
+    "seg_desc": "बाबतपुर से चैबेपुर मार्ग:- बाबतपुर एयरपोर्ट तिराहे से मंगारी जाने वाले मार्ग पर प्राथमिक विद्यालय कर्मी से होते हुए मंगारी रलवे क्रासिंग से होते हुए कृष्णदेव इण्टर कालेज मगांरी होते हुए प्रेमनगर बाजार से पलही पटटी चैराहे तक तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "भटपुरवांखुर्द",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhatapuravankhurd"
+  },
+  {
+    "seg_no": 15,
+    "seg_desc": "मंगारी रेलवे क्रासिंग तिराहे से गंगापुर चैराहे से पेटोलपम्प होते हुए बाबतपुर चैबेपुर मार्ग (तिराहे तक)",
+    "village": "मंगारी",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Mangari"
+  },
+  {
+    "seg_no": 15,
+    "seg_desc": "मंगारी रेलवे क्रासिंग तिराहे से गंगापुर चैराहे से पेटोलपम्प होते हुए बाबतपुर चैबेपुर मार्ग (तिराहे तक)",
+    "village": "नेवादा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Newada"
+  },
+  {
+    "seg_no": 15,
+    "seg_desc": "मंगारी रेलवे क्रासिंग तिराहे से गंगापुर चैराहे से पेटोलपम्प होते हुए बाबतपुर चैबेपुर मार्ग (तिराहे तक)",
+    "village": "गंगापुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Gangapur"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "ओदार",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Odar"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "बूॅची",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bucchi"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "दिनदासपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Dindaspur"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "काशीपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Kashipur"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "राजपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Rajpur"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "रामनगर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ramnagar"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "अमउत",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Amaut"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "मरूई",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Maruee"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "नेवादा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Newada"
+  },
+  {
+    "seg_no": 16,
+    "seg_desc": "मंगारी से सिन्धोरा मार्ग",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "बाबतपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Babatpur"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "पुरारघुनाथपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Pura Raghunathpur"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "रामपुर सिसवाँ",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Ramapura sisavan"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "बसनी",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Basni"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "कबिरामपुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Kabiramapur"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "भगवानपुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhagwanpur"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "रामनगर",
+    "rate_nonagri": 21000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Ramnagar"
+  },
+  {
+    "seg_no": 17,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग- पर बाबतपुर चैराहे से बडा़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटज एण्ड रेस्टोरेंट तक सड़क के दोनो तरफ",
+    "village": "बड़ागाँव",
+    "rate_nonagri": 21000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Badaganv"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "बड़ागाँव",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Badaganv"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "नामापुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Namapur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "ईशीपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 28000,
+    "rate_other_floor": 38000,
+    "village_en": "Ishipur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "फततेुपर बड़ागाँव",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Phatateupara badaganv"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "कुसुमुरा",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Kusumur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "ईटहां",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 28000,
+    "rate_other_floor": 38000,
+    "village_en": "Itahan"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "कुड़ी",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Kudi"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "चिलबिला",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Chilbila"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "महुआरी",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Mahuari"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "बलुआ",
+    "rate_nonagri": 12000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Balua"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "बौलियां",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Bauliyan"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "शेरवानीपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Sheravanipur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "पायकपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Piyarpur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "गजापुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Gajapur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "बलरामपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Balaramapur"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "कोदई",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Kodai"
+  },
+  {
+    "seg_no": 18,
+    "seg_desc": "बाबतपुर कपसेठी मार्ग पर- बड़गाँव त्रिमुहानी यूनियन बैंक व दूसरी तरफ यश होटल एण्ड रेस्टोरेंट से नामापुर व ईशीपुर होते हुए कुरूं त्रिमुहान से होते हुए वरूणा नदी पुल तक तक सड़क के दोनो तरफ",
+    "village": "कुरूं",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Kurun"
+  },
+  {
+    "seg_no": 19,
+    "seg_desc": "बड़ागाँव से कनियर मोड-बड़गाँव त्रिमुहानी यूनियन बैंक से बड़गाँव बाजार होतो हुए गांगकला बाजार के आगे कनियर मोड तक",
+    "village": "बड़ागाँव",
+    "rate_nonagri": 21000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Badaganv"
+  },
+  {
+    "seg_no": 19,
+    "seg_desc": "बड़ागाँव से कनियर मोड-बड़गाँव त्रिमुहानी यूनियन बैंक से बड़गाँव बाजार होतो हुए गांगकला बाजार के आगे कनियर मोड तक",
+    "village": "कोईरीपुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Koiripur"
+  },
+  {
+    "seg_no": 19,
+    "seg_desc": "बड़ागाँव से कनियर मोड-बड़गाँव त्रिमुहानी यूनियन बैंक से बड़गाँव बाजार होतो हुए गांगकला बाजार के आगे कनियर मोड तक",
+    "village": "गांगकला",
+    "rate_nonagri": 19000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Gangakal"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "गांगकला",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Gangakal"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "बड़वापुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Barwapur"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "चकखरावन",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Chakakharavan"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "खरावन",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Kharawan"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "सोनपुरवां",
+    "rate_nonagri": 8500,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Sonapuravan"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "लच्छीरामपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Lachchiramapur"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "अनेई",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Aneai"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "ढोढ़ईपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Dhoraipur"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "चंगवार",
+    "rate_nonagri": 7000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Changwar"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "मधुमखियां",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Madhumakhiyan"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "सांईपुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Sanipur"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "तेलारी",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Telari"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "सियरहां",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Siyarahan"
+  },
+  {
+    "seg_no": 20,
+    "seg_desc": "कनियर मोड़ के आगे साधोगंज बाजार होते हुए अनेई बाजार के आगे साईपुर चैराहे से कुरूं त्रिमुहानी तक",
+    "village": "कुरूं",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Kurun"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "बसनी",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Basni"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "निन्दनपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Nindanpur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "बहुतरा",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Bahutara"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "बेलवां",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Belawa"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "लखमीपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Lakhmipur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "घमहापुर (कुआर)",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ghamhapur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "कुआर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 46000,
+    "village_en": "Kuwar"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "हमीरापुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Hamirapur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "नथईपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Nathipur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "असवारी",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ashwari"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "भरथीपुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bharthipur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "दल्लीपुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Dallipur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "फततेपुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Phatatepur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "जनकपटटी",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Janakapatati"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "मकसूदन पटटी",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Makasudana patati"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "ताड़ी खास",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Tari"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "ताड़ी डीह",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Taridih"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "हरिनाथपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Harinathpur"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "बरही नेंवादा",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Barahi nenvad"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "बरही कलां",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Barhikala"
+  },
+  {
+    "seg_no": 21,
+    "seg_desc": "बसनी त्रिमुहानी से कुआर होते हुए जमालापुर मार्ग पर तहसील की अन्तिम सीमा तक",
+    "village": "भवानीपुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhawanipur"
+  },
+  {
+    "seg_no": 22,
+    "seg_desc": "कुआर से कठिराँव मार्ग",
+    "village": "बीकापुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bikapur"
+  },
+  {
+    "seg_no": 22,
+    "seg_desc": "कुआर से कठिराँव मार्ग",
+    "village": "बराइ्र नयेपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Baraira nayepur"
+  },
+  {
+    "seg_no": 22,
+    "seg_desc": "कुआर से कठिराँव मार्ग",
+    "village": "बचैरा",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bachair"
+  },
+  {
+    "seg_no": 22,
+    "seg_desc": "कुआर से कठिराँव मार्ग",
+    "village": "नथईपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Nathipur"
+  },
+  {
+    "seg_no": 22,
+    "seg_desc": "कुआर से कठिराँव मार्ग",
+    "village": "कठिरांव",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Kathiranv"
+  },
+  {
+    "seg_no": 22,
+    "seg_desc": "कुआर से कठिराँव मार्ग",
+    "village": "नकटी",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Nakati"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "बर्जी",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Barji"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "नथईपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Nathipur"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "हमीरापुर",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 46000,
+    "village_en": "Hamirapur"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "लछिरामपुर",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Lachhi Rampur"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "असवारी",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ashwari"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "थाना",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Thana"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "रामपुर (थाना)",
+    "rate_nonagri": 12000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Ramapura (thana)"
+  },
+  {
+    "seg_no": 23,
+    "seg_desc": "अनेई रामपुर मार्ग",
+    "village": "टेटुआ",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Tetua"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "असबालपुर",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Aswalpur"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "दबेथुआ",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Dabethua"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "जमापुर",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Jamapur"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "कठिराँव",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Kathiranv"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "मलहथ",
+    "rate_nonagri": 10000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Malhath"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "पिण्डरा",
+    "rate_nonagri": 16000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Pindar"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "रामपुर थाना",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Rampur"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "लोकापुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Lokapur"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "अजईपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Ajaipur"
+  },
+  {
+    "seg_no": 24,
+    "seg_desc": "मीराशाह से कठिराँव मार्ग",
+    "village": "थाना",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Thana"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "बेलवरिया",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Belavariya"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "सुतबलपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Sutabalapur"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "चैका",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Chaik"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "नकछेदपुर",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Nakachedapur"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "एकला",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Ekal"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "सोनकडीह",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Sonakadih"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "किशुनापुर (किशुनाचक)",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Kishunapura (kishunachaka)"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "गोसाईपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Gosaipur"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "भटपुरवांखुर्द",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhatapuravankhurd"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "गरथमा",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Garthma"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "महगांव",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Mahgaon"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "सरायशेखलार्ड",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Saray Shekhlad"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "मरूई",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Maruee"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "जाठी",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Jathi"
+  },
+  {
+    "seg_no": 25,
+    "seg_desc": "भोजूबीर से थनागद्दी मार्ग",
+    "village": "गड़खड़ा",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Garkhara"
+  },
+  {
+    "seg_no": 26,
+    "seg_desc": "सिन्धोरा बाजार:- पुलिस चैकी सिन्धोरा से यूनियन बैंक आॅफ इण्डिया शाखा सिन्धोरा तक वाराणसी थाना गद्दी मार्ग",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 27,
+    "seg_desc": "सिन्धोरा बाजार:- यूनियन बैंक आॅफ इण्डिया शाखा सिन्धोरा की अन्तिम सीमा से सैय्यद बाबा की मजार तक वाराणसी थाना गद्दी मार्ग",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 28,
+    "seg_desc": "सिन्धोरा बाजार:- शिवपूजन सिंह के कटरे के अन्दर सिन्धोरा बाजार में जाने के रास्ते से होते हुए स्वामी परमानन्द पब्लिक स्कूल तक",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 29,
+    "seg_desc": "सिन्धोरा-धरसौना मार्ग पर:- सिन्धोरा चैमुहानी से मरूई छतांव खाद्य सहाकारी समिति लि0 तक",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 20000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 29,
+    "seg_desc": "सिन्धोरा-धरसौना मार्ग पर:- सिन्धोरा चैमुहानी से मरूई छतांव खाद्य सहाकारी समिति लि0 तक",
+    "village": "मरूई",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Maruee"
+  },
+  {
+    "seg_no": 30,
+    "seg_desc": "सिन्धोरा-धरसौना मार्ग पर:-  मरूई छतांव खाद्य सहाकारी समिति लि0 से तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "मरूई",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Maruee"
+  },
+  {
+    "seg_no": 30,
+    "seg_desc": "सिन्धोरा-धरसौना मार्ग पर:-  मरूई छतांव खाद्य सहाकारी समिति लि0 से तहसील पिण्डरा की अन्तिम सीमा तक",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 14000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "बरवां",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Barwan"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "देवजी",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Devji"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "फततेपुर कटौना",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Phatatepura kataun"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "खालिसपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Khalishpur"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "प्रहलादपुर",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Prahaladpur"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "मानी",
+    "rate_nonagri": 11000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Mani"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "मझवां",
+    "rate_nonagri": 9000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Majhavan"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "फूलपुर",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Phoolpur"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "सहमलपुर",
+    "rate_nonagri": 13000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Shehmalpur"
+  },
+  {
+    "seg_no": 31,
+    "seg_desc": "फूलपुर सिन्धोरा मार्ग",
+    "village": "सिन्धोरा",
+    "rate_nonagri": 17000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sindhora"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "वाजिदपुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Wazidpur"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "इदिलपुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Indalpur"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "भगवानपुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Bhagwanpur"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "तुलसीपट्टी",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Tulasipatti"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "घमहापुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ghamhapur"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "सिकन्दरपुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Sikandarpur"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "आशापुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Ashapur"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "प्रतापपट्टी",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Pratapapatti"
+  },
+  {
+    "seg_no": 32,
+    "seg_desc": "रिंग रोड फेज-1- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "सभईपुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 38000,
+    "rate_other_floor": 52000,
+    "village_en": "Sabhaipur"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "कैथौली",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Kaithauli"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "पिण्डरा",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Pindar"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "पिण्डराई",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Pindrai"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "बेलवां",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Belawa"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "चकइन्दर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Chakender"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "नागापुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Nagapur"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "थरी",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Thari"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "करखियांव",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Karkhiyaon"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "बर्जी",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Barji"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "सुरहीं",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 31000,
+    "rate_other_floor": 42000,
+    "village_en": "Surahin"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "रामपुर थाना",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 33000,
+    "rate_other_floor": 45000,
+    "village_en": "Rampur"
+  },
+  {
+    "seg_no": 33,
+    "seg_desc": "पिण्डरा बाईपास मार्ग- आई0टी0आई0 स्कूल कैथौली से यू0पी0एस0आई0डी0सी0 के बाउण्डरीवाल तक",
+    "village": "थाना",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 34000,
+    "rate_other_floor": 46000,
+    "village_en": "Thana"
+  },
+  {
+    "seg_no": 34,
+    "seg_desc": "रिंग रोड फेज-2- वाजिदपुर से पिण्डरा तहसील की अन्तिम सीमा तक",
+    "village": "कोईराजपुर",
+    "rate_nonagri": 25000,
+    "rate_shop_land": 50000,
+    "rate_other_floor": 55000,
+    "village_en": "Koirajpur"
+  }
+]

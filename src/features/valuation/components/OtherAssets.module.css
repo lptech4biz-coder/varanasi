@@ -1,0 +1,23 @@
+.row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.row input {
+  width: 90px;
+  text-align: center;
+}
+
+.label {
+  font-family: var(--font-body);
+  font-size: 13.5px;
+}
+
+.label small {
+  display: block;
+  color: var(--color-muted);
+  font-size: 11px;
+}

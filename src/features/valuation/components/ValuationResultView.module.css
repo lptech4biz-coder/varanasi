@@ -1,0 +1,77 @@
+.card {
+  background: var(--color-surface);
+  border: 1px solid #bfdbfe;
+  border-top: 4px solid var(--color-primary);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  padding: 24px;
+  margin-bottom: var(--spacing-md);
+}
+
+.title {
+  font-size: 12.5px;
+  font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin: 0 0 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.amount {
+  font-size: 34px;
+  font-weight: 800;
+  color: var(--color-primary);
+  letter-spacing: -0.02em;
+}
+
+.amountWords {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--color-muted);
+  margin-top: 4px;
+  line-height: 1.4;
+}
+
+.breakdown {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 18px;
+  font-family: var(--font-body);
+  font-size: 13px;
+}
+
+.breakdown td {
+  padding: 8px 6px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.breakdown td:last-child {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.sectionRow td {
+  padding-top: 16px;
+  font-weight: 700;
+  color: var(--color-text);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.subtotal {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.totalRow td {
+  border-top: 2px solid var(--color-primary);
+  border-bottom: none;
+  font-weight: 700;
+  font-size: 14.5px;
+  color: var(--color-text);
+  padding-top: 12px;
+}
+

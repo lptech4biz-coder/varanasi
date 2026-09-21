@@ -1,0 +1,165 @@
+.app {
+  background: var(--color-background);
+  color: var(--color-text);
+  min-height: 100vh;
+  position: relative;
+}
+
+.app::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #1e3a8a 0%, #2563eb 50%, #0f766e 100%);
+}
+
+.wrap {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+  padding: 14px 20px 24px;
+}
+
+.dashboard {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  align-items: start;
+}
+
+/* Tablet (768px - 1199px):
+   Col 1: 1, 2, 3 in one vertical
+   Col 2: 4. Details + Actions
+   Col 1 / -1: 5. Advanced Options spanning horizontally across bottom
+*/
+@media (min-width: 768px) and (max-width: 1199px) {
+  .dashboard {
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    align-items: start;
+  }
+  .colSetup {
+    grid-column: 1;
+  }
+  .colDetails {
+    grid-column: 2;
+  }
+  .colAdvanced {
+    grid-column: 1 / -1;
+  }
+  .guideCard {
+    grid-column: 2;
+  }
+}
+
+/* Widescreen Desktop (>= 1200px, e.g. 1904x850):
+   Col 1: 1, 2, 3 in one vertical column
+   Col 2: 4. Details + Calculate Button
+   Col 3: 5. Additional Options
+*/
+@media (min-width: 1200px) {
+  .dashboard {
+    grid-template-columns: 1fr 1.05fr 1fr;
+    gap: 18px;
+    align-items: start;
+  }
+  .colSetup {
+    grid-column: 1;
+  }
+  .colDetails {
+    grid-column: 2;
+  }
+  .colAdvanced {
+    grid-column: 3;
+  }
+  .guideCard {
+    grid-column: 2 / 4;
+  }
+}
+
+.colSetup,
+.colDetails,
+.colAdvanced {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+.actionsCard {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.calcBtn {
+  font-size: 15px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.calcIcon {
+  font-size: 18px;
+}
+
+.viewResultBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  border: 1px dashed var(--color-primary-accent);
+  color: var(--color-primary);
+  background: var(--color-primary-soft);
+  font-weight: 600;
+  padding: 10px;
+  font-size: 13.5px;
+}
+
+.viewResultBtn:hover {
+  background: #dbeafe;
+  color: var(--color-primary-dark);
+}
+
+.guideCard {
+  background: var(--color-surface);
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 28px 24px;
+  text-align: center;
+  color: var(--color-muted);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+}
+
+.guideIcon {
+  font-size: 32px;
+  color: var(--color-primary-accent);
+  margin-bottom: 12px;
+  opacity: 0.85;
+}
+
+.guideTitle {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 6px;
+}
+
+.guideText {
+  font-size: 13px;
+  line-height: 1.5;
+  max-width: 360px;
+}
+
+
