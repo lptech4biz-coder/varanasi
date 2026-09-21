@@ -45,7 +45,7 @@
 
 .title {
   margin: 0;
-  font-size: 22px;
+  font-size: clamp(17px, 3.5vw, 22px);
   font-weight: 800;
   color: var(--color-text);
   letter-spacing: -0.02em;
@@ -54,7 +54,7 @@
 
 .subtitle {
   font-family: var(--font-body);
-  font-size: 12px;
+  font-size: clamp(11px, 2.2vw, 12px);
   color: var(--color-muted);
   line-height: 1.4;
 }
@@ -72,11 +72,12 @@
   gap: 6px;
   font-size: 12px;
   padding: 6px 12px;
-  min-height: 34px;
+  min-height: 36px;
+  white-space: nowrap;
 }
 
 .resetIcon {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 @media (max-width: 768px) {
@@ -91,6 +92,17 @@
   }
   .topActions {
     justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media (max-width: 420px) {
+  .topActions {
+    gap: 8px;
+  }
+  .resetBtn {
+    padding: 6px 8px;
+    font-size: 11px;
   }
 }
 

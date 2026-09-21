@@ -6,6 +6,7 @@ import { Select } from '../../../components/common/Select';
 import { Checkline } from '../../../components/common/Checkline';
 import { Note } from '../../../components/common/Note';
 import type { AgriBonuses, AgriTypeKey, AgriUnit } from '../types';
+import styles from './AgriculturalDetails.module.css';
 
 interface AgriculturalDetailsProps {
   agriType: AgriTypeKey;
@@ -46,7 +47,7 @@ export function AgriculturalDetails({
         </Select>
       </FormField>
 
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
+      <div className={styles.grid2}>
         <FormField htmlFor="agriUnit" label={t('agricultural.unit')} required>
           <Select
             id="agriUnit"

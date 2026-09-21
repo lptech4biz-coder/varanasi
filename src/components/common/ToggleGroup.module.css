@@ -16,10 +16,22 @@
   color: var(--color-muted);
   user-select: none;
   transition: all 0.15s ease;
-  min-height: 40px;
+  min-height: 42px;
   display: flex;
   align-items: center;
+  justify-content: center;
+  text-align: center;
   box-shadow: var(--shadow-sm);
+  box-sizing: border-box;
+}
+
+@media (max-width: 480px) {
+  .toggle {
+    flex: 1 1 auto;
+    font-size: 12px;
+    padding: 8px 12px;
+    min-height: 40px;
+  }
 }
 
 .toggle:hover:not(.active) {

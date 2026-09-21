@@ -13,6 +13,8 @@
   min-height: 44px;
   box-shadow: var(--shadow-sm);
   transition: all 0.15s ease;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .line:hover {
@@ -39,6 +41,8 @@
   display: block;
   font-weight: 500;
   color: var(--color-text);
+  word-break: break-word;
+  min-width: 0;
 }
 
 .hint {
@@ -46,5 +50,7 @@
   color: var(--color-muted);
   font-size: 12px;
   margin-top: 3px;
+  word-break: break-word;
+  line-height: 1.4;
 }
 

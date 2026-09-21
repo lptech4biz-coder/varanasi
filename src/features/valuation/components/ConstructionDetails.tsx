@@ -6,6 +6,7 @@ import { Select } from '../../../components/common/Select';
 import { TextInput } from '../../../components/common/TextInput';
 import { Note } from '../../../components/common/Note';
 import type { BuildClass, BuildFloorTier, BuildType, ConstructionDraft } from '../types';
+import styles from './ConstructionDetails.module.css';
 
 interface ConstructionDetailsProps {
   value: ConstructionDraft;
@@ -48,7 +49,7 @@ export function ConstructionDetails({ value, onChange }: ConstructionDetailsProp
           </FormField>
 
           {(hasClass || hasFloorTier) && (
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
+            <div className={styles.grid2}>
               {hasClass && (
                 <FormField htmlFor="buildClass" label={t('construction.class')} optionalTag="(optional)">
                   <Select

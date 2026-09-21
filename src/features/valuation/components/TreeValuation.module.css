@@ -2,13 +2,29 @@
   display: grid;
   grid-template-columns: 1.4fr 1fr 0.7fr auto;
   gap: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   align-items: end;
+  width: 100%;
+  box-sizing: border-box;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 520px) {
   .row {
     grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    background: var(--color-surface-subdued);
+    padding: 12px;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--color-border);
+  }
+
+  .removeBtn {
+    grid-column: 1 / -1;
+    width: 100%;
+    margin-top: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 

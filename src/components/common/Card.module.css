@@ -3,10 +3,12 @@
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-sm);
-  padding: 16px 18px;
+  padding: var(--spacing-card-pad);
   margin-bottom: 12px;
   position: relative;
   transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  box-sizing: border-box;
+  width: 100%;
 }
 
 .card:hover {
@@ -43,7 +45,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 10px;
+  flex-wrap: wrap;
+  gap: 6px 10px;
 }
 
 .titleExtra {
