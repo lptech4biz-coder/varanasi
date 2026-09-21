@@ -147,27 +147,6 @@ export function App() {
                     errors={translatedErrors}
                   />
                 )}
-
-                <div className={styles.actionsCard}>
-                  <Button onClick={handleCalculate} className={styles.calcBtn}>
-                    <HiCalculator className={styles.calcIcon} />
-                    <span>{t('calculate.button')}</span>
-                    <HiArrowRight />
-                  </Button>
-
-                  {form.result && !isResultModalOpen && (
-                    <button
-                      type="button"
-                      className={styles.viewResultBtn}
-                      onClick={() => setIsResultModalOpen(true)}
-                    >
-                      <HiEye />
-                      <span>
-                        {t('result.viewResult')} — {formatINR(form.result.total)}
-                      </span>
-                    </button>
-                  )}
-                </div>
               </div>
 
               {/* Column 3: 5. Additional Options */}
@@ -201,6 +180,29 @@ export function App() {
             </div>
           )}
         </div>
+
+        {form.state.village && (
+          <div className={styles.bottomActions}>
+            <Button onClick={handleCalculate} className={styles.calcBtn}>
+              <HiCalculator className={styles.calcIcon} />
+              <span>{t('calculate.button')}</span>
+              <HiArrowRight />
+            </Button>
+
+            {form.result && !isResultModalOpen && (
+              <button
+                type="button"
+                className={styles.viewResultBtn}
+                onClick={() => setIsResultModalOpen(true)}
+              >
+                <HiEye />
+                <span>
+                  {t('result.viewResult')} — {formatINR(form.result.total)}
+                </span>
+              </button>
+            )}
+          </div>
+        )}
 
         {form.result && (
           <ResultModal
