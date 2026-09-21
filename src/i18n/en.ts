@@ -247,6 +247,7 @@ export const en = {
     carpetAreaRequired: 'Carpet area is required',
   },
   footer: {
+    noteTitle: 'Important Note / Disclaimer',
     text: 'This calculator is based on the 2026 rate list of the Office of Sub-Registrar Pindra, Varanasi (Part-2: non-agri/residential/commercial/agri rates, and marked segment road rates) and the 2019 general instructions (where the 2026 list is silent) - every provision marked "2019 Rule" is taken from the 2019 document and has not been explicitly reconfirmed for 2026.',
     disclaimer:
       'Please confirm with the original rate list and current government orders before official registration. Mixed-use buildings, incidental non-agri proximity increases, and plant/machinery valuation are not included in this version.',
