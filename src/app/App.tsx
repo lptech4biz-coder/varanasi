@@ -55,7 +55,7 @@ export function App() {
         <AppHeader onReset={handleReset} />
 
         <div className={styles.dashboard}>
-          {/* Column 1: 1, 2, 3 in one vertical */}
+          {/* Column 1: 1 & 2 in one vertical */}
           <div className={styles.colSetup}>
             {/* 1. Location & Village Search */}
             <VillageSearch
@@ -79,17 +79,18 @@ export function App() {
                 onChange={form.setPropertyType}
               />
             )}
-
-            {/* 3. Boundary Conditions */}
-            {form.state.village && form.state.propertyType !== 'agri' && (
-              <BoundaryConditions value={form.state.boundary} onChange={form.setBoundary} />
-            )}
           </div>
 
           {form.state.village ? (
             <>
-              {/* Column 2: 4. Details & Primary Actions */}
+              {/* Column 2: 3 & 4 in one vertical section */}
               <div className={styles.colDetails}>
+                {/* 3. Boundary Conditions */}
+                {form.state.propertyType !== 'agri' && (
+                  <BoundaryConditions value={form.state.boundary} onChange={form.setBoundary} />
+                )}
+
+                {/* 4. Details & Primary Actions */}
                 {form.state.propertyType === 'res' && (
                   <ResidentialDetails
                     segment={form.state.segment}

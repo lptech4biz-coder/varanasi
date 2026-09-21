@@ -32,8 +32,8 @@
 }
 
 /* Tablet (768px - 1099px):
-   Col 1: 1, 2, 3 in one vertical
-   Col 2: 4. Details
+   Col 1: 1 & 2 in one vertical
+   Col 2: 3 & 4 in one vertical
    Col 1 / -1: 5. Additional Options spanning horizontally across bottom
 */
 @media (min-width: 768px) and (max-width: 1099px) {
@@ -57,8 +57,8 @@
 }
 
 /* Desktop & Ultra-wide (>= 1100px):
-   Col 1: 1, 2, 3 in one vertical column
-   Col 2: 4. Details
+   Col 1: 1 & 2 in one vertical column
+   Col 2: 3 & 4 in one vertical column
    Col 3: 5. Additional Options
 */
 @media (min-width: 1100px) {
