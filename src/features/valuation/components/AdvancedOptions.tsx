@@ -15,12 +15,12 @@ interface AdvancedOptionsProps {
 export function AdvancedOptions({ children }: AdvancedOptionsProps) {
   const { t } = useLanguage();
   return (
-    <details className={styles.section}>
-      <summary className={styles.summary}>
-        <span>{t('advanced.stepTitle')}</span>
+    <div className={styles.section} aria-label={t('advanced.stepTitle')}>
+      <div className={styles.header}>
+        <span className={styles.title}>{t('advanced.stepTitle')}</span>
         <span className={styles.badge}>{t('advanced.badge')}</span>
-      </summary>
+      </div>
       <div className={styles.body}>{children}</div>
-    </details>
+    </div>
   );
 }
